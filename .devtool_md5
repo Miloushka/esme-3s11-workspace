@@ -1,0 +1,2 @@
+esme-gpio-toggle|recipes/esme-gpio-toggle/esme-gpio-toggle_git.bb|92b5420cd24a448ae80bdf631b34acb0
+esme-gpio-toggle|appends/esme-gpio-toggle_git.bbappend|c88fec94bacf2765a854d46882c9d8a5
